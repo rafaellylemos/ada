@@ -1,0 +1,9 @@
+- Editor online (codepen.io)
+
+https://developer.mozilla.org/pt-BR/ (Atributos globais (title, id, style...)
+
+ https://developer.mozilla.org/en-US/docs/Web/CSS/border (bordas)
+
+https://www.w3.org/TR/css-fonts-3/ (fontes)
+
+https://fonts.google.com/ (importar fontes da internet)
